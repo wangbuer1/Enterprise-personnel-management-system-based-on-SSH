@@ -1,0 +1,40 @@
+.login-div{
+    margin: 150px auto;
+    padding:10px 30px 10px 30px;
+    border: 1px solid #3a3a3a;
+    border-radius: 15px;
+    width: 300px;
+    height: 350px;
+    black:#fff;
+    box-shadow: 0 0 25px #cac6c6;
+}
+.input-div{
+    margin: 20px auto;
+    padding: 10px 10px;
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.button-div{
+    margin: 20px auto;
+    padding: 10px 10px;
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+.button-div button{
+    margin-left: 20px;
+}
+.login-form h2{
+    text-align: center;
+}
+.register-button a{
+    color:#000;
+    text-decoration:none
+}
+.register-button a:hover{
+    color:#000;
+    text-decoration:none
+}

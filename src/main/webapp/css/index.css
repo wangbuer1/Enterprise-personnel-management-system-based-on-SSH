@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0
+}
+.index-div{
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+    margin-top: 20px;
+}
+.content-table{
+    margin: 10px auto;
+}
+.buyNumber{
+    width: 50px;
+}
+.carousel-inner img {
+     width: 100%;
+     height: 100%;
+}
+.employeeCategories{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.department-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.employee-list{
+    display: flex;
+    justify-content: flex-start;
+}
+.employee-card{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+}
+.employee-card a{
+    text-decoration:none !important;
+}
+.employee-title{
+    color: black;
+}
+.employee-price{
+    color: red;
+}
+.employee{
+    margin-bottom: 200px;
+}
+.employee-content{
+    padding: 10px 10px;
+    background: #f2f2f2;
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.employee-img{
+    margin-left: 100px;
+}
+.employee-card-buy{
+    margin-left: 300px;
+}
+.employee-card-title{
+    padding: 0px 50px 0 50px;
+}
+.employee-card-buy p{
+    font-size: 22px;
+    margin-bottom: 0px;
+    width: 400px;
+}
+.card-numberInput{
+    width: 50px;
+}
+.car-button{
+    background: #0dcaf0;
+}
+.employee-content img{
+    width: 500px;
+}
+.cart-content{
+    margin: 20px auto;
+    width: 1200px;
+}
+.table-button{
+    display: flex;
+    justify-content: space-around;
+}
+.add-form{
+    display: flex;
+    justify-content: center;
+}
+.form-group{
+    display: flex;
+}
+.department-form .input-div{
+    margin: 20px;
+    padding: 10px 10px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.department-form-div{
+     margin: 150px auto;
+     padding:10px 30px 10px 30px;
+     border: 1px solid #3a3a3a;
+     border-radius: 15px;
+     width: 500px;
+     height:200px;
+}
+.employee-form-div{
+    margin: 150px auto;
+    padding:10px 30px 10px 30px;
+    border: 1px solid #3a3a3a;
+    border-radius: 15px;
+    width: 500px;
+    height:500px;
+}
+.employee-form .input-div{
+     margin: 20px;
+     padding: 10px 10px;
+     width: 300px;
+     display: flex;
+     justify-content: space-around;
+ }
